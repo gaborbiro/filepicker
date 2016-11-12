@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilePicker</string>
+
+    <!-- File picker stuff -->
+    <string name="location">Location</string>
+    <string name="cant_read_folder">cannot be read</string>
+    <string name="file_name">File Name:</string>
+    <string name="select">Select</string>
+    <string name="newstr">New</string>
+    <string name="create">Save</string>
+    <string name="no_data">No data</string>
+</resources>
